@@ -1,0 +1,4 @@
+department,patients,actual_readmissions,expected_readmissions,raw_readmission_rate,case_mix_index,adjusted_readmission_rate,benchmark_rate,variance_from_benchmark
+Cardiology,50,8,10.12,0.16,1.85,0.1265,0.12,0.0065
+Surgery,50,12,4.46,0.24,1.17,0.4305,0.12,0.3105
+Pediatrics,50,4,3.55,0.08,0.88,0.1803,0.12,0.0603

@@ -1,0 +1,151 @@
+patient_id,month,department,diagnosis,age,previous_admissions,comorbidity_count,length_of_stay_days,follow_up_completed,risk_group,case_weight,expected_readmission_risk,actual_readmitted,benchmark_rate,overall_baseline_rate
+P001,2026-01,Cardiology,Heart Failure,78,1,2,8,No,High,1.67,0.17,1,0.12,0.16
+P002,2026-02,Cardiology,Arrhythmia,61,4,5,5,Yes,High,1.91,0.16,0,0.12,0.16
+P003,2026-03,Cardiology,Chest Pain,60,2,3,12,Yes,High,1.92,0.21,0,0.12,0.16
+P004,2026-04,Cardiology,Heart Failure,80,4,5,10,Yes,High,1.65,0.21,0,0.12,0.16
+P005,2026-05,Cardiology,Arrhythmia,83,1,3,10,Yes,High,1.74,0.17,1,0.12,0.16
+P006,2026-01,Cardiology,Chest Pain,88,2,2,5,Yes,High,1.77,0.19,0,0.12,0.16
+P007,2026-02,Cardiology,Heart Failure,69,3,3,4,Yes,High,2.01,0.21,0,0.12,0.16
+P008,2026-03,Cardiology,Arrhythmia,87,3,2,12,Yes,High,1.71,0.22,0,0.12,0.16
+P009,2026-04,Cardiology,Chest Pain,86,2,5,7,No,High,1.99,0.16,1,0.12,0.16
+P010,2026-05,Cardiology,Heart Failure,65,2,2,7,Yes,High,2.11,0.19,0,0.12,0.16
+P011,2026-01,Cardiology,Arrhythmia,72,4,3,6,Yes,High,1.76,0.18,0,0.12,0.16
+P012,2026-02,Cardiology,Chest Pain,66,4,2,6,Yes,High,1.87,0.18,0,0.12,0.16
+P013,2026-03,Cardiology,Heart Failure,72,3,3,12,Yes,High,1.65,0.19,0,0.12,0.16
+P014,2026-04,Cardiology,Arrhythmia,82,1,3,4,Yes,High,2.06,0.2,1,0.12,0.16
+P015,2026-05,Cardiology,Chest Pain,60,2,5,9,Yes,High,1.65,0.2,0,0.12,0.16
+P016,2026-01,Cardiology,Heart Failure,86,4,4,6,Yes,High,1.69,0.18,0,0.12,0.16
+P017,2026-02,Cardiology,Arrhythmia,75,3,3,10,Yes,High,2.13,0.2,0,0.12,0.16
+P018,2026-03,Cardiology,Chest Pain,65,2,5,11,Yes,High,1.56,0.16,0,0.12,0.16
+P019,2026-04,Cardiology,Heart Failure,61,2,3,10,Yes,High,1.92,0.19,0,0.12,0.16
+P020,2026-05,Cardiology,Arrhythmia,77,3,5,8,Yes,High,2.18,0.24,1,0.12,0.16
+P021,2026-01,Cardiology,Chest Pain,58,4,2,12,Yes,High,2.03,0.23,0,0.12,0.16
+P022,2026-02,Cardiology,Heart Failure,68,1,3,10,Yes,High,1.61,0.16,0,0.12,0.16
+P023,2026-03,Cardiology,Arrhythmia,81,4,3,12,Yes,High,2.03,0.21,0,0.12,0.16
+P024,2026-04,Cardiology,Chest Pain,61,4,3,12,Yes,High,1.93,0.17,0,0.12,0.16
+P025,2026-05,Cardiology,Heart Failure,82,2,5,12,Yes,High,2.14,0.21,0,0.12,0.16
+P026,2026-01,Cardiology,Arrhythmia,73,1,2,9,No,High,2.12,0.23,1,0.12,0.16
+P027,2026-02,Cardiology,Chest Pain,67,2,2,7,Yes,High,2.11,0.25,0,0.12,0.16
+P028,2026-03,Cardiology,Heart Failure,60,4,4,5,Yes,High,2.18,0.21,0,0.12,0.16
+P029,2026-04,Cardiology,Arrhythmia,62,2,4,12,Yes,High,1.62,0.21,0,0.12,0.16
+P030,2026-05,Cardiology,Chest Pain,77,3,3,12,Yes,High,2.03,0.22,0,0.12,0.16
+P031,2026-01,Cardiology,Heart Failure,80,2,4,9,Yes,High,1.81,0.21,0,0.12,0.16
+P032,2026-02,Cardiology,Arrhythmia,61,2,3,5,Yes,High,1.74,0.21,0,0.12,0.16
+P033,2026-03,Cardiology,Chest Pain,65,3,3,4,Yes,High,1.55,0.22,0,0.12,0.16
+P034,2026-04,Cardiology,Heart Failure,65,1,2,9,Yes,High,1.55,0.18,1,0.12,0.16
+P035,2026-05,Cardiology,Arrhythmia,79,3,3,12,Yes,High,1.59,0.24,0,0.12,0.16
+P036,2026-01,Cardiology,Chest Pain,76,3,4,7,Yes,High,2.05,0.23,0,0.12,0.16
+P037,2026-02,Cardiology,Heart Failure,64,1,2,10,Yes,High,1.75,0.2,0,0.12,0.16
+P038,2026-03,Cardiology,Arrhythmia,85,4,2,5,Yes,High,1.54,0.23,0,0.12,0.16
+P039,2026-04,Cardiology,Chest Pain,83,1,3,7,Yes,High,1.63,0.2,0,0.12,0.16
+P040,2026-05,Cardiology,Heart Failure,71,2,3,11,Yes,High,1.67,0.24,0,0.12,0.16
+P041,2026-01,Cardiology,Arrhythmia,72,3,2,4,Yes,High,1.96,0.21,0,0.12,0.16
+P042,2026-02,Cardiology,Chest Pain,58,1,3,6,Yes,High,1.78,0.2,0,0.12,0.16
+P043,2026-03,Cardiology,Heart Failure,85,3,2,6,Yes,High,1.77,0.25,1,0.12,0.16
+P044,2026-04,Cardiology,Arrhythmia,66,3,3,10,Yes,High,1.99,0.23,0,0.12,0.16
+P045,2026-05,Cardiology,Chest Pain,83,3,4,6,Yes,High,1.63,0.18,0,0.12,0.16
+P046,2026-01,Cardiology,Heart Failure,59,3,5,4,Yes,High,2.02,0.17,0,0.12,0.16
+P047,2026-02,Cardiology,Arrhythmia,76,3,5,12,Yes,High,1.61,0.25,0,0.12,0.16
+P048,2026-03,Cardiology,Chest Pain,60,2,2,5,Yes,High,1.97,0.18,0,0.12,0.16
+P049,2026-04,Cardiology,Heart Failure,61,3,3,4,Yes,High,1.93,0.2,0,0.12,0.16
+P050,2026-05,Cardiology,Arrhythmia,76,3,5,9,Yes,High,2.15,0.18,0,0.12,0.16
+P051,2026-01,Surgery,Post-op Follow-up,55,0,1,8,Yes,Medium,0.97,0.1,0,0.12,0.16
+P052,2026-02,Surgery,Orthopedic Surgery,64,1,0,2,Yes,Medium,1.13,0.12,0,0.12,0.16
+P053,2026-03,Surgery,Abdominal Surgery,41,0,3,5,No,Low,1.15,0.07,1,0.12,0.16
+P054,2026-04,Surgery,Post-op Follow-up,57,0,1,7,Yes,Low,1.04,0.09,0,0.12,0.16
+P055,2026-05,Surgery,Orthopedic Surgery,69,1,3,2,Yes,Low,1.23,0.09,0,0.12,0.16
+P056,2026-01,Surgery,Abdominal Surgery,77,0,1,6,No,Low,0.96,0.07,0,0.12,0.16
+P057,2026-02,Surgery,Post-op Follow-up,70,0,1,6,Yes,Medium,1.2,0.1,0,0.12,0.16
+P058,2026-03,Surgery,Orthopedic Surgery,48,1,3,9,No,Medium,1.03,0.11,1,0.12,0.16
+P059,2026-04,Surgery,Abdominal Surgery,38,0,2,6,Yes,Low,0.92,0.08,0,0.12,0.16
+P060,2026-05,Surgery,Post-op Follow-up,43,1,1,9,Yes,Low,1.18,0.09,0,0.12,0.16
+P061,2026-01,Surgery,Orthopedic Surgery,35,0,0,4,Yes,Medium,1.17,0.11,0,0.12,0.16
+P062,2026-02,Surgery,Abdominal Surgery,72,2,1,8,Yes,Low,0.96,0.08,0,0.12,0.16
+P063,2026-03,Surgery,Post-op Follow-up,37,1,1,5,No,Low,1.23,0.08,1,0.12,0.16
+P064,2026-04,Surgery,Orthopedic Surgery,70,1,3,4,Yes,Low,1.36,0.07,0,0.12,0.16
+P065,2026-05,Surgery,Abdominal Surgery,45,0,2,2,Yes,Medium,0.99,0.12,0,0.12,0.16
+P066,2026-01,Surgery,Post-op Follow-up,61,0,1,4,No,Low,1.29,0.07,0,0.12,0.16
+P067,2026-02,Surgery,Orthopedic Surgery,37,1,1,5,Yes,Low,1.31,0.09,0,0.12,0.16
+P068,2026-03,Surgery,Abdominal Surgery,54,0,1,2,No,Low,1.23,0.08,1,0.12,0.16
+P069,2026-04,Surgery,Post-op Follow-up,52,0,1,7,Yes,Low,1.22,0.08,0,0.12,0.16
+P070,2026-05,Surgery,Orthopedic Surgery,69,1,0,3,Yes,Low,1.34,0.08,0,0.12,0.16
+P071,2026-01,Surgery,Abdominal Surgery,72,1,0,3,Yes,Low,1.2,0.08,0,0.12,0.16
+P072,2026-02,Surgery,Post-op Follow-up,55,1,3,3,Yes,Low,1.09,0.09,0,0.12,0.16
+P073,2026-03,Surgery,Orthopedic Surgery,51,0,2,2,No,Medium,1.16,0.11,1,0.12,0.16
+P074,2026-04,Surgery,Abdominal Surgery,78,0,1,8,Yes,Medium,0.93,0.1,0,0.12,0.16
+P075,2026-05,Surgery,Post-op Follow-up,56,2,1,3,Yes,Low,1.26,0.08,0,0.12,0.16
+P076,2026-01,Surgery,Orthopedic Surgery,54,1,1,8,No,Low,1.25,0.09,0,0.12,0.16
+P077,2026-02,Surgery,Abdominal Surgery,47,1,2,4,Yes,Low,1.21,0.08,0,0.12,0.16
+P078,2026-03,Surgery,Post-op Follow-up,70,0,1,6,No,Medium,1.01,0.11,1,0.12,0.16
+P079,2026-04,Surgery,Orthopedic Surgery,73,1,2,9,Yes,Low,1.12,0.07,0,0.12,0.16
+P080,2026-05,Surgery,Abdominal Surgery,65,0,0,6,Yes,Medium,1.16,0.1,0,0.12,0.16
+P081,2026-01,Surgery,Post-op Follow-up,56,0,1,6,Yes,Low,1.01,0.07,0,0.12,0.16
+P082,2026-02,Surgery,Orthopedic Surgery,36,0,1,9,No,Medium,1.21,0.11,1,0.12,0.16
+P083,2026-03,Surgery,Abdominal Surgery,64,1,3,5,Yes,Low,1.26,0.08,0,0.12,0.16
+P084,2026-04,Surgery,Post-op Follow-up,60,0,1,2,Yes,Medium,1.35,0.11,0,0.12,0.16
+P085,2026-05,Surgery,Orthopedic Surgery,41,1,1,4,Yes,Medium,1.3,0.1,0,0.12,0.16
+P086,2026-01,Surgery,Abdominal Surgery,64,0,3,5,Yes,Low,1.36,0.07,0,0.12,0.16
+P087,2026-02,Surgery,Post-op Follow-up,43,1,3,7,No,Medium,1.38,0.11,1,0.12,0.16
+P088,2026-03,Surgery,Orthopedic Surgery,74,2,2,9,Yes,Medium,1.35,0.1,0,0.12,0.16
+P089,2026-04,Surgery,Abdominal Surgery,65,1,1,5,Yes,Low,1.32,0.08,0,0.12,0.16
+P090,2026-05,Surgery,Post-op Follow-up,68,1,1,6,Yes,Medium,1.12,0.1,0,0.12,0.16
+P091,2026-01,Surgery,Orthopedic Surgery,50,1,1,7,Yes,Low,1.35,0.06,0,0.12,0.16
+P092,2026-02,Surgery,Abdominal Surgery,44,0,2,4,No,Low,1.25,0.06,1,0.12,0.16
+P093,2026-03,Surgery,Post-op Follow-up,61,1,3,9,Yes,Low,1.11,0.07,0,0.12,0.16
+P094,2026-04,Surgery,Orthopedic Surgery,61,1,3,2,Yes,Medium,1.33,0.11,0,0.12,0.16
+P095,2026-05,Surgery,Abdominal Surgery,59,1,0,7,Yes,Low,1.05,0.08,0,0.12,0.16
+P096,2026-01,Surgery,Post-op Follow-up,61,2,3,5,No,Low,1.14,0.08,1,0.12,0.16
+P097,2026-02,Surgery,Orthopedic Surgery,66,0,2,7,Yes,Medium,1.23,0.11,0,0.12,0.16
+P098,2026-03,Surgery,Abdominal Surgery,45,1,1,2,No,Medium,1.35,0.1,1,0.12,0.16
+P099,2026-04,Surgery,Post-op Follow-up,77,0,0,8,Yes,Low,0.97,0.09,0,0.12,0.16
+P100,2026-05,Surgery,Orthopedic Surgery,38,1,2,7,No,Low,1.01,0.08,1,0.12,0.16
+P101,2026-01,Pediatrics,Asthma,14,1,1,4,Yes,Low,0.8,0.05,0,0.12,0.16
+P102,2026-02,Pediatrics,Respiratory Infection,2,1,0,3,Yes,Low,0.79,0.05,0,0.12,0.16
+P103,2026-03,Pediatrics,Fever,12,0,0,2,Yes,Low,0.78,0.05,0,0.12,0.16
+P104,2026-04,Pediatrics,Asthma,4,0,0,4,No,Low,0.97,0.08,1,0.12,0.16
+P105,2026-05,Pediatrics,Respiratory Infection,5,1,1,3,Yes,Low,0.77,0.08,0,0.12,0.16
+P106,2026-01,Pediatrics,Fever,13,0,0,3,Yes,Low,0.74,0.05,0,0.12,0.16
+P107,2026-02,Pediatrics,Asthma,6,1,1,4,Yes,Low,1.08,0.06,0,0.12,0.16
+P108,2026-03,Pediatrics,Respiratory Infection,11,0,0,6,Yes,Low,1.01,0.09,0,0.12,0.16
+P109,2026-04,Pediatrics,Fever,11,0,2,1,Yes,Low,0.84,0.07,0,0.12,0.16
+P110,2026-05,Pediatrics,Asthma,7,0,2,6,Yes,Low,0.84,0.09,0,0.12,0.16
+P111,2026-01,Pediatrics,Respiratory Infection,15,1,0,4,Yes,Low,1.08,0.08,0,0.12,0.16
+P112,2026-02,Pediatrics,Fever,15,1,0,4,No,Low,0.77,0.08,0,0.12,0.16
+P113,2026-03,Pediatrics,Asthma,12,0,2,5,Yes,Low,1.01,0.07,0,0.12,0.16
+P114,2026-04,Pediatrics,Respiratory Infection,15,1,1,3,Yes,Low,1.04,0.09,0,0.12,0.16
+P115,2026-05,Pediatrics,Fever,3,0,1,2,Yes,Low,1.0,0.08,0,0.12,0.16
+P116,2026-01,Pediatrics,Asthma,12,1,1,1,Yes,Low,0.9,0.07,0,0.12,0.16
+P117,2026-02,Pediatrics,Respiratory Infection,9,0,1,3,Yes,Low,0.84,0.09,0,0.12,0.16
+P118,2026-03,Pediatrics,Fever,13,0,2,1,Yes,Low,0.91,0.06,0,0.12,0.16
+P119,2026-04,Pediatrics,Asthma,5,1,1,5,No,Low,1.0,0.08,1,0.12,0.16
+P120,2026-05,Pediatrics,Respiratory Infection,12,1,1,1,Yes,Low,0.74,0.06,0,0.12,0.16
+P121,2026-01,Pediatrics,Fever,13,0,1,6,Yes,Low,0.93,0.07,0,0.12,0.16
+P122,2026-02,Pediatrics,Asthma,10,0,1,6,No,Low,0.92,0.07,0,0.12,0.16
+P123,2026-03,Pediatrics,Respiratory Infection,9,0,1,3,Yes,Low,0.79,0.09,0,0.12,0.16
+P124,2026-04,Pediatrics,Fever,7,0,2,6,Yes,Low,0.77,0.06,0,0.12,0.16
+P125,2026-05,Pediatrics,Asthma,9,0,2,5,Yes,Medium,0.94,0.1,0,0.12,0.16
+P126,2026-01,Pediatrics,Respiratory Infection,15,0,1,2,Yes,Low,0.84,0.07,0,0.12,0.16
+P127,2026-02,Pediatrics,Fever,13,1,0,3,Yes,Low,0.72,0.05,0,0.12,0.16
+P128,2026-03,Pediatrics,Asthma,6,0,1,1,Yes,Low,1.05,0.08,0,0.12,0.16
+P129,2026-04,Pediatrics,Respiratory Infection,9,1,1,3,Yes,Low,0.77,0.05,0,0.12,0.16
+P130,2026-05,Pediatrics,Fever,15,1,0,1,No,Low,0.86,0.05,1,0.12,0.16
+P131,2026-01,Pediatrics,Asthma,12,0,0,2,Yes,Medium,1.02,0.1,0,0.12,0.16
+P132,2026-02,Pediatrics,Respiratory Infection,3,0,0,5,Yes,Low,1.01,0.08,0,0.12,0.16
+P133,2026-03,Pediatrics,Fever,14,1,0,5,Yes,Medium,0.85,0.1,0,0.12,0.16
+P134,2026-04,Pediatrics,Asthma,6,1,1,3,Yes,Low,0.93,0.05,0,0.12,0.16
+P135,2026-05,Pediatrics,Respiratory Infection,13,0,0,6,Yes,Low,0.78,0.08,0,0.12,0.16
+P136,2026-01,Pediatrics,Fever,4,0,0,5,Yes,Low,0.73,0.05,0,0.12,0.16
+P137,2026-02,Pediatrics,Asthma,9,1,1,3,Yes,Low,0.71,0.06,0,0.12,0.16
+P138,2026-03,Pediatrics,Respiratory Infection,6,1,0,6,Yes,Low,0.79,0.06,0,0.12,0.16
+P139,2026-04,Pediatrics,Fever,14,1,0,4,Yes,Low,0.75,0.06,0,0.12,0.16
+P140,2026-05,Pediatrics,Asthma,4,0,0,1,Yes,Low,0.72,0.09,0,0.12,0.16
+P141,2026-01,Pediatrics,Respiratory Infection,11,1,1,4,Yes,Low,0.75,0.08,0,0.12,0.16
+P142,2026-02,Pediatrics,Fever,13,1,1,5,Yes,Low,0.92,0.07,0,0.12,0.16
+P143,2026-03,Pediatrics,Asthma,11,0,1,6,Yes,Low,0.83,0.06,0,0.12,0.16
+P144,2026-04,Pediatrics,Respiratory Infection,3,0,2,5,Yes,Medium,1.08,0.1,0,0.12,0.16
+P145,2026-05,Pediatrics,Fever,12,0,2,1,No,Low,1.01,0.06,1,0.12,0.16
+P146,2026-01,Pediatrics,Asthma,10,1,1,2,Yes,Low,1.1,0.07,0,0.12,0.16
+P147,2026-02,Pediatrics,Respiratory Infection,15,1,0,4,Yes,Low,0.84,0.07,0,0.12,0.16
+P148,2026-03,Pediatrics,Fever,12,0,0,3,Yes,Low,0.86,0.07,0,0.12,0.16
+P149,2026-04,Pediatrics,Asthma,12,1,2,1,Yes,Low,0.88,0.07,0,0.12,0.16
+P150,2026-05,Pediatrics,Respiratory Infection,7,0,1,5,Yes,Low,1.03,0.05,0,0.12,0.16
